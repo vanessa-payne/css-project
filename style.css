@@ -1,0 +1,28 @@
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+h1{
+    font-size: 55px;
+}
+p{
+    margin: 40px;
+
+color:lightcoral; 
+font-size: 22px;
+}
+
+.content-box{
+    padding: 15px;
+}
+body{
+    /* background-color: lightskyblue; */
+    background-image: url("background.jpg");
+}
+.container{
+    background-color: yellow;
+font-size: 50px;
+}
+nav li{
+    display: inline;
+}
